@@ -49,3 +49,28 @@ A complete ETL pipeline with backend and React dashboard for e-commerce inventor
 - Python 3.9+
 - PostgreSQL database with zepto table
 - Environment variables configured
+
+##  Screenshots
+
+###  Homepage
+![Screenshot 1](./1.png)
+
+###  Dashboard
+![Screenshot 2](./2.png)
+
+###  Search Feature
+![Screenshot 3](./3.png)
+
+###  Product Details
+![Screenshot 4](./4.png)
+
+###  Analytics
+![Screenshot 5](./5.png)
+
+###  Report View
+![Screenshot 6](./6.png)
+
+###  Export Option
+![Screenshot 7](./7.png)
+
+
