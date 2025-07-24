@@ -53,24 +53,31 @@ A complete ETL pipeline with backend and React dashboard for e-commerce inventor
 ##  Screenshots
 
 ###  Homepage
-![Screenshot 1](./1.png)
+![Screenshot 1](./ZeptoAnalysis/1.png)
 
 ###  Dashboard
-![Screenshot 2](./2.png)
+![Screenshot 2](./ZeptoAnalysis/2.png)
 
 ###  Search Feature
-![Screenshot 3](./3.png)
+![Screenshot 3](./ZeptoAnalysis/3.png)
 
 ###  Product Details
-![Screenshot 4](./4.png)
+![Screenshot 4](./ZeptoAnalysis/4.png)
 
 ###  Analytics
-![Screenshot 5](./5.png)
+![Screenshot 5](./ZeptoAnalysis/5.png)
 
 ###  Report View
-![Screenshot 6](./6.png)
+![Screenshot 6](./ZeptoAnalysis/6.png)
 
 ###  Export Option
-![Screenshot 7](./7.png)
+![Screenshot 7](./ZeptoAnalysis/7.png)
 
+## Demo Videos
+
+###  Query Tool Demo
+[▶️ Click to watch query tool.mov](./ZeptoAnalysis/query%20tool.mov)
+
+### ⚙ Working Demo of the App
+[▶️ Click to watch working.mov](./ZeptoAnalysis/working.mov)
 
